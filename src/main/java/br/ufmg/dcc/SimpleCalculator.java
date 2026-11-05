@@ -3,13 +3,13 @@ package br.ufmg.dcc;
 public class SimpleCalculator {
 
   public int addition(int x, int y) {
-    return x + y;
+    return y + x;
   }
 
   public int subtraction(int x, int y) {
     return x - y;
   }
-  
+  subtraction
   public int multiplication(int x, int y){
     return x * y;
   }
